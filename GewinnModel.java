@@ -17,32 +17,17 @@ public class GewinnModel extends JFrame {
         return gesamtPunkte;
     }
 
-    public void setGesamtPunkte(int gesamtPunkte) {
-        this.gesamtPunkte = gesamtPunkte;
-    }
-
     public int getSpielerZahl() {
         return spielerZahl;
     }
 
-    public void setSpielerZahl(int spielerZahl) {
-        this.spielerZahl = spielerZahl;
-    }
 
     public int getComputerZahl() {
         return computerZahl;
     }
 
-    public void setComputerZahl(int computerZahl) {
-        this.computerZahl = computerZahl;
-    }
-
     public int getRundenErgebnis() {
         return rundenErgebnis;
-    }
-
-    public void setRundenErgebnis(int rundenErgebnis) {
-        this.rundenErgebnis = rundenErgebnis;
     }
 
     public static void main(String[] args) {
