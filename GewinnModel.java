@@ -30,7 +30,10 @@ public class GewinnModel extends JFrame {
         return rundenErgebnis;
     }
 
-    public static void main(String[] args) {
+    public void berechneComputerZahl(){
+
+    }
+    public void berechneRunde(int spielerZahl){
 
     }
 }
