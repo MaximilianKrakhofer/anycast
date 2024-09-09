@@ -36,6 +36,15 @@ public class GewinnModel extends JFrame {
         this.computerZahl = rand.nextInt(0, 9);
     }
     public void berechneRunde(int spielerZahl){
+        if(spielerZahl == this.computerZahl){
+            gesamtPunkte = gesamtPunkte + 20;
+        }
+        if(spielerZahl == computerZahl +1 || spielerZahl == computerZahl -1){
+            gesamtPunkte = gesamtPunkte +5;
+        }
+        else{
+            gesamtPunkte = gesamtPunkte -10;
+        }
 
     }
 }
