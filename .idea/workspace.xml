@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1a429a1b-b8f3-4dba-a8bd-17ecf4745364" name="Changes" comment="berechneComputerZahl eingefügt">
+      <change beforePath="$PROJECT_DIR$/GewinnModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/GewinnModel.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "MaximilianKrakhofer"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/TGM-HIT/einfachesspielmitgit-MaximilianKrakhofer.git",
+    "accountId": "326c2f96-0028-4daf-861c-67c096763c26"
+  }
+}]]></component>
+  <component name="KubernetesApiPersistence"><![CDATA[{}]]></component>
+  <component name="KubernetesApiProvider"><![CDATA[{
+  "isMigrated": true
+}]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2lplIcKoAmuN1AwFgyunEjY8KPw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.GewinnModel.executor": "Run",
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.21829.142" />
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-IU-242.21829.142" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a429a1b-b8f3-4dba-a8bd-17ecf4745364" name="Changes" comment="" />
+      <created>1725884820525</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725884820525</updated>
+      <workItem from="1725884822470" duration="2863000" />
+    </task>
+    <task id="LOCAL-00001" summary="asd">
+      <option name="closed" value="true" />
+      <created>1725885459821</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1725885459821</updated>
+    </task>
+    <task id="LOCAL-00002" summary="asd">
+      <option name="closed" value="true" />
+      <created>1725885628939</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725885628939</updated>
+    </task>
+    <task id="LOCAL-00003" summary="asd">
+      <option name="closed" value="true" />
+      <created>1725885807705</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1725885807705</updated>
+    </task>
+    <task id="LOCAL-00004" summary="asd">
+      <option name="closed" value="true" />
+      <created>1725885879693</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1725885879693</updated>
+    </task>
+    <task id="LOCAL-00005" summary="fortnitite">
+      <option name="closed" value="true" />
+      <created>1725886040813</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1725886040813</updated>
+    </task>
+    <task id="LOCAL-00006" summary="fortnitite">
+      <option name="closed" value="true" />
+      <created>1725886110372</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1725886110372</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Erste Richtige Änderung. Standart Programm gemacht">
+      <option name="closed" value="true" />
+      <created>1725886501247</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1725886501247</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Setter Methoden entfernt, kann nicht lesen">
+      <option name="closed" value="true" />
+      <created>1725886605345</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1725886605345</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Anderen Methoden hinzugefügt">
+      <option name="closed" value="true" />
+      <created>1725886710821</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1725886710822</updated>
+    </task>
+    <task id="LOCAL-00010" summary="berechneComputerZahl eingefügt">
+      <option name="closed" value="true" />
+      <created>1725886870845</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1725886870845</updated>
+    </task>
+    <task id="LOCAL-00011" summary="berechneComputerZahl eingefügt">
+      <option name="closed" value="true" />
+      <created>1725886997778</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1725886997778</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="asd" />
+    <MESSAGE value="fortnitite" />
+    <MESSAGE value="Erste Richtige Änderung. Standart Programm gemacht" />
+    <MESSAGE value="Setter Methoden entfernt, kann nicht lesen" />
+    <MESSAGE value="Anderen Methoden hinzugefügt" />
+    <MESSAGE value="berechneComputerZahl eingefügt" />
+    <option name="LAST_COMMIT_MESSAGE" value="berechneComputerZahl eingefügt" />
+  </component>
+</project>
