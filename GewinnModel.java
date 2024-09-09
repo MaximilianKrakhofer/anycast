@@ -1,4 +1,5 @@
 import javax.swing.*;
+import java.util.Random;
 
 public class GewinnModel extends JFrame {
 
@@ -31,7 +32,8 @@ public class GewinnModel extends JFrame {
     }
 
     public void berechneComputerZahl(){
-
+        Random rand = new Random();
+        this.computerZahl = rand.nextInt(0, 9);
     }
     public void berechneRunde(int spielerZahl){
 
