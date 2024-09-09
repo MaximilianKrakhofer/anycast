@@ -1,6 +1,4 @@
-import javax.swing.*;
-
-public class Main {
+public class SpielModel {
     public static void main(String[] args) {
         System.out.println("asd");
     }
