@@ -1,1 +1,2 @@
 "# einfachesspielmitgit-MaximilianKrakhofer" 
+"# einfachesspiel-MaximilianKrakhofer" 
